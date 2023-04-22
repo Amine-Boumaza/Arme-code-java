@@ -13,5 +13,5 @@ public class ArmeRaffles extends Arme {
         this.setcartouche(this.getcartouche()-this.n);
     }
 
-    
+
 }
