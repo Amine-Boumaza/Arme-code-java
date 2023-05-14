@@ -19,7 +19,7 @@ public class Arme{
     public int getcartouche() {
         return this.cartouche;
     }
-
+    
     public int setcartouche(int cartouche) {
         return this.cartouche=cartouche;
     }
